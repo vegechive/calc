@@ -1,25 +1,27 @@
 {
-    "id": "02979852",
-    "path": null,
-    "project_path": null,
+    "id": "246F5836",
+    "path": "~/GitHub/calc/R/dif.R",
+    "project_path": "R/dif.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1763442116707.0,
+    "created": 1763444426172.0,
     "source_on_save": false,
     "relative_order": 5,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "14,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763441577,
-    "encoding": "",
+    "lastKnownWriteTime": 1763444512,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763442116707,
+    "last_content_update": 1763444512583,
     "read_only": false,
     "read_only_alternatives": []
 }
